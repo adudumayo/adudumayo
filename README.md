@@ -1,9 +1,5 @@
 # Hi there, I'm Dumza 👋
 
-
-![Header](./your-header-image-name.png)
-
-
 I'm a software engineering student based in Durban, South Africa. I enjoy coding, especially low-level programming and web development.
 
 ## 🛠️ My Skills
@@ -16,7 +12,6 @@ I'm a software engineering student based in Durban, South Africa. I enjoy coding
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adudumayo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adudumayo&layout=compact&theme=radical)](https://github.com/adudumayo/github-readme-stats)
-[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adudumayo&theme=react-dark)](https://github.com/adudumayo)
 
 ## 🔥 Projects
 
