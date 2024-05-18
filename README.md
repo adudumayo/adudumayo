@@ -20,5 +20,5 @@ I'm a software engineering student based in Durban, South Africa. I enjoy coding
 
 ## 📫 How to reach me
 
-- Email: youremail@example.com
+- Email: dasimanye@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/asimanye-dudumayo-879a3a16a)
