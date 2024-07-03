@@ -16,7 +16,7 @@ I'm a software engineering student based in Durban, South Africa. I enjoy coding
 ## 🔥 Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adudumayo&repo=taskArena&theme=radical)](https://github.com/adudumayo/taskArena)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adudumayo&repo=bash_scripts&theme=radical)](https://github.com/adudumayo/bash_scripts)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adudumayo&repo=wtc-reviews&theme=radical)](https://github.com/adudumayo/wtc-reviews)
 
 ## 📫 How to reach me
 
