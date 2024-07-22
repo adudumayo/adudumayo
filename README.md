@@ -1,10 +1,10 @@
 # Hi there, I'm Dumza 👋
 
-I'm a software engineering student based in Durban, South Africa. I enjoy coding, especially low-level programming and web development.
+I'm a software engineering student based in Durban, South Africa.
 
 ## 🛠️ My Skills
 
-- **Languages**: Python, JavaScript, Java, C
+- **Languages**: Python, JavaScript, Java, Bash
 - **Frameworks**: React, Node.js
 - **Tools**: Git, Linux
 
