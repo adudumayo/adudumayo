@@ -4,9 +4,9 @@ I'm a software engineering student based in Durban, South Africa.
 
 ## 🛠️ My Skills
 
-- **Languages**: Python, JavaScript, Java, Bash
+- **Languages**: Java, Python, JavaScript, Bash
 - **Frameworks**: React, Node.js
-- **Tools**: Git, Linux
+- **Tools**: Git, Linux, Docker
 
 ## 📊 GitHub Stats
 
