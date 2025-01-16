@@ -1,6 +1,6 @@
 # Hi there, I'm Dumza 👋
 
-I'm a software engineering student based in Durban, South Africa.
+I'm a Software Engineering graduate based in South Africa.
 
 ## 🛠️ My Skills
 
