@@ -4,7 +4,7 @@ I'm a Software Engineering graduate based in South Africa.
 
 ## 🛠️ My Skills
 
-- **Languages**: Python, Java, C# and Go
+- **Languages**: Python, Java, JavaScript, and Go
 - **Tools**: Linux, Docker, SQLite
 
 ## 📊 GitHub Stats
