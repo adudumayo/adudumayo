@@ -5,7 +5,7 @@ I'm a Software Engineering graduate based in South Africa.
 ## 🛠️ My Skills
 
 - **Languages**: Python, Java, JavaScript, and Go
-- **Tools**: Linux, Docker, SQLite
+- **Tools**: Linux, Docker, MySQL
 
 ## 📊 GitHub Stats
 
@@ -14,8 +14,8 @@ I'm a Software Engineering graduate based in South Africa.
 
 ## 🔥 Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adudumayo&repo=eMbewu&theme=radical)](https://github.com/adudumayo/eMbewu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adudumayo&repo=wtc-reviews&theme=radical)](https://github.com/adudumayo/wtc-reviews)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adudumayo&repo=school-management-backend&theme=radical)](https://github.com/adudumayo/school-management-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adudumayo&repo=school-management-frontend&theme=radical)](https://github.com/adudumayo/school-management-frontend)
 
 ## 📫 How to reach me
 
