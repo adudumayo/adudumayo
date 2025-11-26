@@ -1,6 +1,6 @@
 # Hi there, I'm Dumza 👋
 
-I'm a Software Engineering graduate based in South Africa.
+I'm a Programmer and Ethical Hacker based in South Africa.
 
 ## 🛠️ My Skills
 
