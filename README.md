@@ -9,7 +9,7 @@ I'm a Programmer and Ethical Hacker based in South Africa.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adudumayo&show_icons=true&theme=radical)
+[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adudumayo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adudumayo&layout=compact&theme=radical)](https://github.com/adudumayo/github-readme-stats)
 
 ## 🔥 Projects
